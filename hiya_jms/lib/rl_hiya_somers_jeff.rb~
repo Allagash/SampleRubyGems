@@ -1,0 +1,5 @@
+class Hiya
+  def self.hiya
+    pust "Hiya all!"
+  end
+end
